@@ -1,0 +1,23 @@
+# requirements.txt file
+asgiref==3.2.7
+certifi==2020.4.5.2
+cffi==1.14.0
+chardet==3.0.4
+cryptography==2.9.2
+Django==2.2.3
+django-cors-headers==3.3.0
+django-cors-middleware==1.3.1
+django-extensions==1.7.1
+django-widget-tweaks==1.4.8
+djangorestframework==3.4.4
+docker==4.2.1
+idna==2.9
+jwt==1.0.0
+pycparser==2.20
+PyJWT==1.4.2
+pytz==2020.1
+requests==2.23.0
+six==1.10.0
+sqlparse==0.3.1
+urllib3==1.25.9
+websocket-client==0.57.0
